@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bài HTML</title>
+</head>
+<body>
+    <h1>Danh sách</h1>
+
+    <a href="nav-bar.html">Navigation Bar</a><br>
+    <a href="page-content.html">Page Content</a><br>
+    <a href="simple-website.html">Simple Website</a><br>
+    <a href="exam-results.html">Exam Results</a>
+</body>
+</html>
