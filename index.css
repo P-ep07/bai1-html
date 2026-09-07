@@ -1,0 +1,33 @@
+```css
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #CCCCCC;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+a {
+    display: block;
+    width: 400px;
+    margin: 15px auto;
+    padding: 15px;
+    background-color: white;
+    color: #444;
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #444;
+}
+
+a:hover {
+    background-color: #444;
+    color: white;
+}
